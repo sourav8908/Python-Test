@@ -1,0 +1,15 @@
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Databases
+*.db
+
+# Virtual Environment
+venv/
+env/
+.env
+
+# Testing
+.pytest_cache/
+test_addresses.db
